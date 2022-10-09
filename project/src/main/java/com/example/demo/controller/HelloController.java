@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@GetMapping("/")
 	public String Hello() {
-		return "Hello my name is Narendra MOdi "
+		return "Hello my name is Modi "
 				+ " Welcome to AMAZON EC2 Online Application Made With SpringBoot";
 		
 	}
